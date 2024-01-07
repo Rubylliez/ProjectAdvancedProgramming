@@ -6,7 +6,7 @@ The project facilitates user registration via a web interface, data submission, 
 ## Participants' Full Names:
 - Botagariev Amirhan
 - Zharmagambetov Rustem
-- Ketebay Bakhtiar
+- Kuttybayev Daulet
 
 ## Screenshot of the First Page of Your Site:
 ![Screenshot](Screenshot.png)
