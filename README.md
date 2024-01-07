@@ -9,7 +9,7 @@ The project facilitates user registration via a web interface, data submission, 
 - Ketebay Bakhtiar
 
 ## Screenshot of the First Page of Your Site:
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## How to Run:
 ### Prerequisites:
